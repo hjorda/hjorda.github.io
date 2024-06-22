@@ -1,19 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Helena Jorda Guerra",
+    "label": "Scientist & Educator",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "helenajordaguerra@gmail.com",
+    "url": "https://hjorda.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
     "profiles": [
       {
         "network": "Twitter",
@@ -24,16 +16,25 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Escuela Pia Sant Antoni, Barcelona",
+      "position": "Educator",
+      "url": "https://santantoni.escolapia.cat/",
+      "startDate": "2023",
+      "endDate": "present",
+      "summary": "Teaching biology and chemistry",
+      "_highlights": ["Relativity"]
+    },
+    {
+      "name": "Forschungszentrum Jülich",
+      "position": "PostDoc Researcher",
+      "url": "https://www.fz-juelich.de/",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Researching soilphysics",
+      "_highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  "_volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -47,18 +48,29 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universitat Pompeu Fabra",
+      "location": "Barcelona, Spain",
+      "url": "https://www.upf.edu/",
+      "area": "Teaching",
+      "studyType": "MSc",
+      "startDate": "2022",
+      "endDate": "2023",
+      "_score": "10",
+      "_courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "KU Lueven",
+      "location": "Lueven, Belgium",
+      "url": "https://www.kuleuven.be/english/kuleuven",
+      "area": "Biological/ Biosystems Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015",
+      "endDate": "2019",
+      "_score": "10",
+      "_courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
+  "_awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -67,7 +79,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -111,7 +123,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -134,7 +146,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "_skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -151,7 +163,12 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Catalan",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,7 +178,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "_interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -175,7 +192,7 @@
       ]
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -187,7 +204,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",

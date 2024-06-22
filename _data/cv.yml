@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Helena Jorda Guerra
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th Feburary 1988
     - name: Languages
-      value: English, German
+      value: English, Catalan <em>native</em>, Spanish <em>basic</em>, French
 
 - title: Education
   type: time_table
